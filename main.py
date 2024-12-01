@@ -141,5 +141,6 @@ def main():
     calc_and_desplay_costs()
 
 
+
 if __name__ == "__main__":
     main()
